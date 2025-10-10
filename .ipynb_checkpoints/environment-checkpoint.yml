@@ -13,4 +13,6 @@ dependencies:
   - jupyterlab
   - notebook
   - pip
+  - pip:
+      - -e .
 
